@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "790c31e3-07cd-40b2-8a69-9e30182d88bf": {
+      "ProjectGuid": "790c31e3-07cd-40b2-8a69-9e30182d88bf",
+      "DisplayName": "CarInfo",
+      "ColorIndex": 0
+    },
+    "98b08201-3521-4ba1-9cac-05be6f00fb63": {
+      "ProjectGuid": "98b08201-3521-4ba1-9cac-05be6f00fb63",
+      "DisplayName": "Client",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

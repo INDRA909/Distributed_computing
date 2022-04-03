@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "302d0520-11ba-421d-a838-720d0805932b": {
+      "ProjectGuid": "302d0520-11ba-421d-a838-720d0805932b",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 0
+    },
+    "839a704f-d7a6-4bb6-a349-3dca681db55d": {
+      "ProjectGuid": "839a704f-d7a6-4bb6-a349-3dca681db55d",
+      "DisplayName": "MailSlotsClient",
+      "ColorIndex": 1
+    },
+    "59f51b45-57d3-408e-bbde-bbb8f19ac60c": {
+      "ProjectGuid": "59f51b45-57d3-408e-bbde-bbb8f19ac60c",
+      "DisplayName": "MailSlotsServer",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

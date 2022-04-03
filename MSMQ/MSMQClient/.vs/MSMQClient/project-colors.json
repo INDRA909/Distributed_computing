@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "08daa95c-6da4-41e8-8f71-0f49848ae6cc": {
+      "ProjectGuid": "08daa95c-6da4-41e8-8f71-0f49848ae6cc",
+      "DisplayName": "MSMQClient",
+      "ColorIndex": 0
+    },
+    "aedaae22-a73e-4411-a063-30673ab6d4d0": {
+      "ProjectGuid": "aedaae22-a73e-4411-a063-30673ab6d4d0",
+      "DisplayName": "MSMQServer",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

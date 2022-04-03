@@ -1,0 +1,24 @@
+C:\Users\ivanr\OneDrive\Рабочий стол\весь .NET\Client\bin\Debug\Client.exe.config
+C:\Users\ivanr\OneDrive\Рабочий стол\весь .NET\Client\bin\Debug\Client.exe
+C:\Users\ivanr\OneDrive\Рабочий стол\весь .NET\Client\bin\Debug\Client.pdb
+C:\Users\ivanr\OneDrive\Рабочий стол\весь .NET\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\весь .NET\Client\obj\Debug\Client.Form1.resources
+C:\Users\ivanr\OneDrive\Рабочий стол\весь .NET\Client\obj\Debug\Client.Form2.resources
+C:\Users\ivanr\OneDrive\Рабочий стол\весь .NET\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\ivanr\OneDrive\Рабочий стол\весь .NET\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\весь .NET\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\весь .NET\Client\obj\Debug\Client.exe
+C:\Users\ivanr\OneDrive\Рабочий стол\весь .NET\Client\obj\Debug\Client.pdb
+C:\Users\ivanr\OneDrive\Рабочий стол\весь .NET\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\ТРВ\WebService\Client\bin\Debug\Client.exe.config
+C:\Users\ivanr\OneDrive\Рабочий стол\ТРВ\WebService\Client\bin\Debug\Client.exe
+C:\Users\ivanr\OneDrive\Рабочий стол\ТРВ\WebService\Client\bin\Debug\Client.pdb
+C:\Users\ivanr\OneDrive\Рабочий стол\ТРВ\WebService\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\ТРВ\WebService\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\ТРВ\WebService\Client\obj\Debug\Client.Form1.resources
+C:\Users\ivanr\OneDrive\Рабочий стол\ТРВ\WebService\Client\obj\Debug\Client.Form2.resources
+C:\Users\ivanr\OneDrive\Рабочий стол\ТРВ\WebService\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\ivanr\OneDrive\Рабочий стол\ТРВ\WebService\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\ТРВ\WebService\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\ivanr\OneDrive\Рабочий стол\ТРВ\WebService\Client\obj\Debug\Client.exe
+C:\Users\ivanr\OneDrive\Рабочий стол\ТРВ\WebService\Client\obj\Debug\Client.pdb

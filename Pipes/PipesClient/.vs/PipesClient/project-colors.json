@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b20e20be-93c1-4c3a-80e0-dd0d03ba68b8": {
+      "ProjectGuid": "b20e20be-93c1-4c3a-80e0-dd0d03ba68b8",
+      "DisplayName": "PipesClient",
+      "ColorIndex": 0
+    },
+    "27520607-798d-4c35-9835-c166177bfffb": {
+      "ProjectGuid": "27520607-798d-4c35-9835-c166177bfffb",
+      "DisplayName": "PipesServer",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
